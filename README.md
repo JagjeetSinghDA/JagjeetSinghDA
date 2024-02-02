@@ -28,8 +28,8 @@ I share my thoughts and insights on data analysis on my blog [Blog Name]. Feel f
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/jagjeet-singh-da/)]
-- **Twitter:** @https://twitter.com/Ginnybadal
-- **Email:** @jagjeetsinghda@gmail.com
+- **Twitter:** [https://twitter.com/Ginnybadal]
+- **Email:** [jagjeetsinghda@gmail.com]
 
 ## 🎉 Fun Facts
 - 📚 I love reading about advancements in data science and technology.
